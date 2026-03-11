@@ -1,4 +1,4 @@
-print("Hola Morenito papasote bello")
+print("Hola Brandfitor papasote bello")
 edad = int(input("Ingresa tu edad: "))
 
 if 0 < edad <= 12:
